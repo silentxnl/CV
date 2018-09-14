@@ -2,6 +2,11 @@
 <html lang="en" data-random-animation="false" data-animation="16">
     <head>
 
+        <?php 
+        include_once "gate/config.php";
+        include_once "gate/project-security.php";
+        ?>
+
         <!--Meta Tags-->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -161,6 +166,8 @@
                                     cargo, i.e. nuclear materials, X-Ray materials as well as military goods; i.e.
                                     ammunitions, cartridges, guns, rockets, shells, etc., which require specialized
                                     skills and knowledge regarding the transport of these materials.<br>
+                                    My present activities also include international supply-chain management, as well
+                                    as cross-trades.<br>
                                 </p>
                                 <!-- <p>xxx</p>
                                 <p>Consectetur consectetur nesciunt nesciunt blanditiis amet? Quod quis unde aliquid excepturi laudantium? Illo architecto aliquam velit illo magnam neque perferendis sint Incidunt eius ipsa inventore labore eos velit. Minus hic magni reiciendis necessitatibus ex Quidem officia deleniti accusamus obcaecati dolores. Porro culpa quibusdam impedit porro praesentium excepturi. Alias ab consequatur?</p> -->
