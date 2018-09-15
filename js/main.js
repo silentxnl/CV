@@ -265,7 +265,7 @@ function initMap() {
     var marker = new google.maps.Marker({
         position: cordinates,
         map: map,
-        title: "I am Here!"
+        title: "We are here!"
     });
 }
 
